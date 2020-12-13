@@ -6,7 +6,6 @@ testFilePath = 'day12.txt'
 
 lines = comm.readFileToList(testFilePath)
 
-directions = ['E', 'S', 'W', 'N']
 curP = [0, 0]
 wayP = [10, 1]
 
